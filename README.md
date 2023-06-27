@@ -42,9 +42,16 @@ At the bottom Serial Wire Debug (SWD) is a standard interface on Cortex-M-based 
 
 1. **Type-C Connector** : A USB Type-C connector is included on the board, which allows for easy connection to a computer or power source.
 2. **RP2040 MCU (Dual-core Arm Cortex M0+ processor)** : The RP2040 is a powerful microcontroller unit that features dual-core Arm Cortex M0+ processors. It has a clock speed of up to 133 MHz and includes a variety of built-in peripherals and interfaces, including USB, SPI, I2C, and UART.
-3. **Boot Button** : The board features a boot button, which can be used to enter the bootloader mode when the board is powered on. This allows for easy programming of the RP2040 MCU using the Raspberry Pi Pico's USB port.
+3. **BOOTSEL Button** : The board features a boot button, which can be used to enter the bootloader mode when the board is powered on. This allows for easy programming of the RP2040 MCU using the Raspberry Pi Pico's USB port.
 
+## How to install Boot Firmware 
+- Push and hold the BOOTSEL button and plug your Pico into the USB port of your Raspberry Pi or other computer. Release the BOOTSEL button after your Pico is connected.
+- It will mount as a Mass Storage Device called RPI-RP2.
+- Drag and drop the [MicroPython UF2 file](https://github.com/sbcshop/Micro_RP2040/blob/main/firmware_pico.uf2) onto the RPI-RP2 volume. Your Pico will reboot. You are now running MicroPython.
 
+## Testing
+- 
+  
 ## Resources
   * [Schematic](https://github.com/sbcshop/Micro_RP2040/blob/main/Design%20Data/SCH%20Micro%20RP2040.pdf)
   * [PCB 3D File](https://github.com/sbcshop/Micro_RP2040/blob/main/Mechanical%20Data/3D%20PCB%20Micro%20RP2040.pdf)

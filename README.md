@@ -8,8 +8,7 @@ With 23 multifunction GPIO pins and a Type-C port, the Micro RP2040 has all the 
 
 In short, the Micro RP2040 is a versatile and powerful microcontroller that packs all the features of the Raspberry Pi Pico into a smaller and more compact form factor. Whether you're building a robot, controlling a smart home device, or experimenting with electronics, the Micro RP2040 is the perfect tool for the job.
 
-Here are some of the key features and benefits of the Micro RP2040:
-
+### Features:
 - Small and compact form factor, making it perfect for embedded projects and applications.
 - Features the powerful RP2040 microcontroller, which provides a dual-core Arm Cortex-M0+ processor and 264KB of SRAM.
 - Includes 23 multifunction GPIO pins, giving you plenty of options for connecting sensors, displays, and other peripherals.
@@ -20,7 +19,7 @@ Here are some of the key features and benefits of the Micro RP2040:
 - Breadboard compatible, making it versatile and suitable for incorporating into a wide range of DIY electronics projects
 - The board includes 2MB of onboard Flash memory, which can be used to store programs and data. This provides plenty of space for complex applications and projects.
   
-Specifications:
+### Specifications:
 - Operating Voltage 3.3V/5V, Pins operating voltage 3.3V
 
 ## Micro RP2040 GPIO Breakout:

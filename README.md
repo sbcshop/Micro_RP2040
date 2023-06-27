@@ -46,11 +46,19 @@ At the bottom Serial Wire Debug (SWD) is a standard interface on Cortex-M-based 
 
 ## How to install Boot Firmware 
 - Push and hold the BOOTSEL button and plug your Pico into the USB port of your Raspberry Pi or other computer. Release the BOOTSEL button after your Pico is connected.
+
+  <img src="https://github.com/sbcshop/Micro_RP2040/blob/main/Images/bootmode_step.gif"  width= "635" height= "321">
+  
 - It will mount as a Mass Storage Device called RPI-RP2.
 - Drag and drop the [MicroPython UF2 file](https://github.com/sbcshop/Micro_RP2040/blob/main/firmware_pico.uf2) onto the RPI-RP2 volume. Your Pico will reboot. You are now running MicroPython.
 
+  <img src="https://github.com/sbcshop/Micro_RP2040/blob/main/Images/firmware_install.gif"  width= "720" height= "382">
+
 ## Testing
-- 
+-  Download and install [Thonny IDE](https://thonny.org/) from official site.
+-  Write simple code in Thonny IDE, select MicroPython board with suitable com port (maybe different in your case). Then click on run button
+   
+   <img src="https://github.com/sbcshop/Micro_RP2040/blob/main/Images/test_run_code.gif" width= "720" height= "382">
   
 ## Resources
   * [Schematic](https://github.com/sbcshop/Micro_RP2040/blob/main/Design%20Data/SCH%20Micro%20RP2040.pdf)

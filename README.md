@@ -1,4 +1,4 @@
-![image](https://github.com/sbcshop/Micro_RP2040/assets/129948335/c868f587-2054-4a64-9887-1b7dc79a81cd)# Micro_RP2040
+# Micro_RP2040
 <img src="https://cdn.shopify.com/s/files/1/1217/2104/files/banner1.png?v=1687787715">
 Introducing the Micro RP2040 - a small and compact version of the popular Raspberry Pi Pico. With 23 multifunction GPIO pins and a Type-C port, the Micro RP2040 has all the functionality of the Raspberry Pi Pico but in a smaller size. With its breadboard-friendly design, you can easily integrate it into your prototyping setup and explore endless possibilities for creating interactive and innovative projects.
 

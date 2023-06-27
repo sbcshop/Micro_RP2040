@@ -27,11 +27,11 @@ Specifications:
 4. **2MB of onboard Flash memory** : The board includes 2MB of onboard Flash memory, which can be used to store programs and data. This provides plenty of space for complex applications and projects.
 
 ## Resources
-  * [Schematic]()
-  * [Hardware Files]()
-  * [Step File]()
+  * [Schematic](https://github.com/sbcshop/Micro_RP2040/blob/main/Design%20Data/SCH%20Micro%20RP2040.pdf)
+  * [PCB 3D File](https://github.com/sbcshop/Micro_RP2040/blob/main/Mechanical%20Data/3D%20PCB%20Micro%20RP2040.pdf)
+  * [Step File](https://github.com/sbcshop/Micro_RP2040/blob/main/Mechanical%20Data/STEP.step)
   * [MicroPython getting started for RPi Pico](https://docs.micropython.org/en/latest/rp2/quickref.html)
-  * [Pico Getting Started](https://projects.raspberrypi.org/en/projects/get-started-pico-w)
+  * [Pico Getting Started](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico)
 
 
 ## Related Products

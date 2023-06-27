@@ -20,7 +20,16 @@ In short, the Micro RP2040 is a versatile and powerful microcontroller that pack
 - The board includes 2MB of onboard Flash memory, which can be used to store programs and data. This provides plenty of space for complex applications and projects.
   
 ### Specifications:
-- Operating Voltage 3.3V/5V, Pins operating voltage 3.3V
+- RP2040 microcontroller which is dual-core Arm Cortex-M0+ processor
+- Operating Voltage 3.3V/5V, GPIO Pins operating voltage 3.3V
+- 22 Multipurpose GPIOs 
+- PWM, I2C, SPI, and UART communications protocol 
+- Type C for power, Drag & Drop Programming 
+- 2MB of onboard Flash memory
+- Cross platform development and multiple programming language support
+- Operating temperature: -40°~+85°
+- Weight: 4g (0.2oz)
+
 
 ## Micro RP2040 GPIO Breakout:
 <img src="https://github.com/sbcshop/Micro_RP2040/blob/main/Images/Gpio_breakout.jpg">

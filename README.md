@@ -29,7 +29,7 @@ In short, the Micro RP2040 is a versatile and powerful microcontroller that pack
 At the bottom Serial Wire Debug (SWD) is a standard interface on Cortex-M-based microcontrollers exposed, which can be use for debugging purpose.
 
 ### Pinout :
-<img src="https://github.com/sbcshop/Micro_RP2040/blob/main/Images/PINOUT.jpg" width = "576" height="160">
+<img src="https://github.com/sbcshop/Micro_RP2040/blob/main/Images/PINOUT.jpg">
 
 1. **Type-C Connector** : A USB Type-C connector is included on the board, which allows for easy connection to a computer or power source.
 2. **RP2040 MCU (Dual-core Arm Cortex M0+ processor)** : The RP2040 is a powerful microcontroller unit that features dual-core Arm Cortex M0+ processors. It has a clock speed of up to 133 MHz and includes a variety of built-in peripherals and interfaces, including USB, SPI, I2C, and UART.

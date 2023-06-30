@@ -1,8 +1,8 @@
 # Micro_RP2040
-<img src="https://cdn.shopify.com/s/files/1/1217/2104/files/banner1.png?v=1687787715">
+<img src="https://cdn.shopify.com/s/files/1/1217/2104/files/banner1_bd2219ac-b95d-4038-914a-21f8f089f584.jpg?v=1687941628">
 Introducing the Micro RP2040 - a small and compact version of the popular Raspberry Pi Pico. This github includes Micro RP2040 Hardware Details and resources.
 
-With 23 multifunction GPIO pins and a Type-C port, the Micro RP2040 has all the functionality of the Raspberry Pi Pico but in a smaller size. With its breadboard-friendly design, you can easily integrate it into your prototyping setup and explore endless possibilities for creating interactive and innovative projects.
+With 22 multifunction GPIO pins and a Type-C port, the Micro RP2040 has all the functionality of the Raspberry Pi Pico but in a smaller size. With its breadboard-friendly design, you can easily integrate it into your prototyping setup and explore endless possibilities for creating interactive and innovative projects.
 
 <img src="https://github.com/sbcshop/Micro_RP2040/blob/main/Images/mirco%20rp2040%20breadboard.jpg" width = "288" height="264" >
 
@@ -11,7 +11,7 @@ In short, the Micro RP2040 is a versatile and powerful microcontroller that pack
 ### Features:
 - Small and compact form factor, making it perfect for embedded projects and applications.
 - Features the powerful RP2040 microcontroller, which provides a dual-core Arm Cortex-M0+ processor and 264KB of SRAM.
-- Includes 23 multifunction GPIO pins, giving you plenty of options for connecting sensors, displays, and other peripherals.
+- Includes 22 multifunction GPIO pins, giving you plenty of options for connecting sensors, displays, and other peripherals.
 - Comes with a Type-C port for easy connectivity and data transfer.
 - Supports a wide range of programming languages and development environments, including C, C++, MicroPython and CircuitPython.
 - Includes all the standard features of the Raspberry Pi Pico, including support for hardware and software PWM, I2C, SPI, and UART communications.

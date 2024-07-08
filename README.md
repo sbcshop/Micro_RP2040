@@ -37,6 +37,8 @@ In short, the Micro RP2040 is a versatile and powerful microcontroller that pack
 22 Multifunction GPIO pin breakout available, so easily use to interface external peripheral.
 At the bottom Serial Wire Debug (SWD) is a standard interface on Cortex-M-based microcontrollers exposed, which can be use for debugging purpose.
 
+**_Note: There is hardware correction instead of GP18 there has to GP16, follow pinout provided here in github_**
+
 ### Pinout :
 <img src="https://github.com/sbcshop/Micro_RP2040/blob/main/Images/PINOUT.jpg">
 
